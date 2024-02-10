@@ -58,13 +58,6 @@ age_21_and_above = {
 
 print("Hi, Welcome to our game!\n") # add game name later
 
-# menu option
-# print("Here's the Menu:")
-# print("1. City Stats")
-# print("2. Shopping Game")
-# print("3. Exit")
-# print()
-
 option = 0;
 while (option != 3):
   print("Here's the Menu:")
