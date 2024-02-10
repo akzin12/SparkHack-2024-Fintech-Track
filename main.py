@@ -3,7 +3,7 @@ def city_status():
   print("What city do you want to explore?")
   for i in range(len(city_dict)):
     print(f"{i+1}. {list(city_dict.keys())[i]}")
-# can you see this
+#ghskfjsfisnj
   location = int(input("Enter(1-7): "))
   print()
   
